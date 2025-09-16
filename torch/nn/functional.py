@@ -1,5 +1,8 @@
 """Functional interface."""
 
+# jfadiji - main changes
+import platform     #different import for different OS
+
 import importlib
 import math
 import warnings
