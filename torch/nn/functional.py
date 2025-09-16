@@ -2,6 +2,12 @@
 
 # jfadiji - main changes
 import platform     #different import for different OS
+# jfadiji -merge-conflict changes
+import os    #import a  module that isn't used.
+
+# jfadiji - step 2: amend the commit. Add change first
+
+
 
 import importlib
 import math
