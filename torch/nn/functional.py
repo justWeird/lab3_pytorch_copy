@@ -1,5 +1,8 @@
 """Functional interface."""
 
+# jfadiji -merge-conflict changes
+import os    #import a  module that isn't used.
+
 import importlib
 import math
 import warnings
